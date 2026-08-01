@@ -1,1 +1,6 @@
-
+pandas==2.3.3
+numpy==2.5.1
+matplotlib==3.11.1
+scikit-learn==1.9.0
+recordlinkage==0.16
+ipykernel==7.3.0
